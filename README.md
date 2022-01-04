@@ -1,3 +1,5 @@
+# Phase 3 Project - Hoa and Morgan 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
